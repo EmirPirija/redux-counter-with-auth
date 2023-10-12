@@ -1,4 +1,4 @@
-#Redux Counter App
+# Redux Counter App
 This is a simple React application that demonstrates the use of Redux with the Redux Toolkit. It includes a counter that can be incremented, decremented, and toggled on and off. The project showcases two different implementations of the same functionality: one using functional components and hooks, and the other using class components and the traditional way of connecting Redux.
 
 # Functional vs. Class-based Components
