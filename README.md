@@ -26,10 +26,10 @@ The Redux store is configured using configureStore from @reduxjs/toolkit.
 Separate slices are created for the counter and authentication states using createSlice.
 
 # Technologies Used
-React
-Redux
-Redux Toolkit
-CSS Modules
+- React
+- Redux
+- Redux Toolkit
+- CSS Modules
 
 <img width="1920" alt="Screen Shot 2023-10-12 at 9 08 35 PM" src="https://github.com/EmirPirija/redux-counter-with-auth/assets/118456820/84af04b8-ef50-42c0-ad17-b95542a9031e">
 <img width="1920" alt="Screen Shot 2023-10-12 at 9 08 53 PM" src="https://github.com/EmirPirija/redux-counter-with-auth/assets/118456820/35d59634-477e-47f4-ae00-922715436ef3">
